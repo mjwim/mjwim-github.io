@@ -1,3 +1,126 @@
+* {
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+  font-family: 'Raleway';
+}
+
+/* #header {
+    position: fixed;
+    height: 50px;
+    display: block;
+    width: 100%;
+    background: #C7CDD1;
+    z-index: 9;
+    text-align: center;
+    color: #f2f2f2;
+} */
+
+ul {
+  list-style: none;
+  text-decoration: none;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+}
+
+nav ul a {
+  color: white;
+}
+
+nav ul li {
+  float: right;
+}
+
+i {
+  font-size: 150px;
+}
+
+.fa-github {
+  color: white;
+}
+.fa-linkedin {
+  color: white;
+}
+
+.fa-envelope {
+  color: white;
+}
+
+.name {
+  display: inline-block;
+}
+
 body {
-  background-color: blue;
+  background-image: url("https://images.unsplash.com/photo-1518814588-a6d6c729dcac?ixlib=rb-0.3.5&s=5e4b364bed0a836a06770bc765d7179c&auto=format&fit=crop&w=2768&q=80");
+}
+
+.title {
+  background-color: #6C818B;
+  color: white;
+  text-align: center;
+  opacity: 0.4;
+  font-size: 200%;
+}
+
+.contact {
+  text-align: center;
+  color: white;
+}
+
+.profile {
+  background-color: #909DA4;
+  text-align: center;
+  color: 	#DCDCDC;
+}
+
+.skills {
+  background-color: #6C818B;
+  text-align: center;
+  color: 	#DCDCDC;
+}
+
+.technologies {
+  background-color: #6C818B;
+  text-align: center;
+  color: 	#DCDCDC;
+}
+
+.projects {
+  background-color: #6C818B;
+  color: white;
+  /* border: 1px solid black; */
+  text-align: center;
+  opacity: 0.4;
+}
+
+.project-1 {
+  background-color: #3D4C53;
+  color: white;
+  border: 1px solid black;
+}
+.project-2 {
+  background-color: #3D4C53;
+  color: white;
+  border: 1px solid black;
+}
+.project-3 {
+  background-color: #3D4C53;
+  color: white;
+  border: 1px solid black;
+}
+.project-4 {
+  background-color: #3D4C53;
+  color: white;
+  border: 1px solid black;
+}
+
+.contact {
+  background-color: #6C818B;
+  text-align: center;
+  color: white;
 }
