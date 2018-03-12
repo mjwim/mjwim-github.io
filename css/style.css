@@ -77,13 +77,17 @@ i {
     margin: -8px 0 0 -8px;
     background: transparent;
     box-sizing: border-box;
-    border: 1px solid #24221F;
+    border: 1px solid #6C818B;
 }
 
 body {
   background-image: url("https://images.unsplash.com/photo-1518814588-a6d6c729dcac?ixlib=rb-0.3.5&s=5e4b364bed0a836a06770bc765d7179c&auto=format&fit=crop&w=2768&q=80");
 }
 
+.container {
+  margin : 0 auto;
+  max-width: 1000px;
+}
 .title {
   background-color: #6C818B;
   color: white;
@@ -104,13 +108,13 @@ body {
 }
 
 .skills {
-  background-color: #6C818B;
+  background-color: #3D4C53;
   text-align: center;
   color: 	#DCDCDC;
 }
 
 .technologies {
-  background-color: #6C818B;
+  background-color: #3D4C53;
   text-align: center;
   color: 	#DCDCDC;
 }
@@ -124,24 +128,40 @@ body {
 }
 
 .project-1 {
-  background-color: #3D4C53;
+  background-color: #909DA4;
   color: white;
-  border: 1px solid black;
+  height: 200px;
+  margin: 5px;
+  padding: 5px;
+  opacity: 0.4;
+  text-align: center;
 }
 .project-2 {
-  background-color: #3D4C53;
+  background-color: #909DA4;
   color: white;
-  border: 1px solid black;
+  height: 200px;
+  margin: 5px;
+  padding: 5px;
+  opacity: 0.4;
+  text-align: center;
 }
 .project-3 {
-  background-color: #3D4C53;
+  background-color: #909DA4;
   color: white;
-  border: 1px solid black;
+  height: 200px;
+  margin: 5px;
+  padding: 5px;
+  opacity: 0.4;
+  text-align: center;
 }
 .project-4 {
-  background-color: #3D4C53;
+  background-color: #909DA4;
   color: white;
-  border: 1px solid black;
+  height: 200px;
+  margin: 5px;
+  padding: 5px;
+  opacity: 0.4;
+  text-align: center;
 }
 
 .contact {

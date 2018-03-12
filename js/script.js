@@ -1,7 +1,6 @@
-// global const Typewriter //
 $( document ).ready(function() {
   $('#fullpage').fullpage({
-    anchors: ['firstPage', 'secondPage', 'thirdPage', 'lastPage'],
+    anchors: ['Home', 'Profile', 'Portfolio', 'Skills'],
     menu: '#myMenu',
     navigation: true,
     navigationPosition: 'left',
