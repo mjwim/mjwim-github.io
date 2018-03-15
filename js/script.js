@@ -1,6 +1,6 @@
 $( document ).ready(function() {
   $('#fullpage').fullpage({
-    anchors: ['Home', 'Profile', 'Portfolio', 'Skills'],
+    anchors: ['firstPage', 'secondPage', 'thirdPage', 'lastPage'],
     menu: '#myMenu',
     navigation: true,
     navigationPosition: 'left',
